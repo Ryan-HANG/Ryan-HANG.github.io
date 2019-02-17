@@ -4,12 +4,12 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 九九叔
-subtitle: 九九叔的github之家
-description: 九九叔的github之家
-keywords: 九九叔, JiuJiuShu, jjslogin, JiuJiuShu
+title: 半吊子码农
+subtitle: 半吊子码农的github之家
+description: 半吊子码农的github之家
+keywords: 然博, Java
 favicon: /favicon.ico
-timezone: Asia/Shenzhen
+timezone: Asia/NJ
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
@@ -17,11 +17,11 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: JiuJiuShu
-organization: OPPO, Inc.
-organization_url: http://www.oppo.com
-github_username: wenfengtou
-location: Shenzhen, China
-email: qianmayi@gmail.com
+organization: HW, Inc.
+organization_url: http://www.huawei.com
+github_username: Ryan—HANG
+location: NanJing, China
+email: 24226266@qq.com
 
 # ---------------- #
 #    Navigation    #
